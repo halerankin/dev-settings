@@ -13,6 +13,7 @@ export PATH=/usr/local/bin:$PATH
 export PATH=${PATH}:/usr/local/mysql/bin
 
 alias chrome='open -a Google\ Chrome --args --disable-web-security'
+alias git-pw='it credential-osxkeychain erease'
 
 #cool aliases from Greg
 alias la='ls -Al'          # show hidden files
